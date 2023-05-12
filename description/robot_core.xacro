@@ -29,7 +29,7 @@
     </link>
 
 
-    <!-- CHASSIS LINK -->
+    <!-- CHASSIS LINK On-->
     <joint name="chassis_joint" type="fixed">
         <parent link="base_link" />
         <child link="chassis" />
